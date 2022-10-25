@@ -1,10 +1,10 @@
 
 
 ## Image Processing App: 
-Programming language: Python
-Image processing library: Opencv
-GUI creation library: Pysimplegui
-Other library: Numpy
+- Programming language: Python
+- Image processing library: Opencv
+- GUI library: Pysimplegui
+- Other library: Numpy
 
 ### Image filter processing window
 ![myimage-alt-tag](https://drive.google.com/file/d/1gW1_7ySo4qrtup8ZFpwr3okHIHqRZNxV/view?usp=sharing)
